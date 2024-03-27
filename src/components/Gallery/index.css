@@ -1,0 +1,9 @@
+.bg {
+  background-color: 'ffffff';
+}
+
+.ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
